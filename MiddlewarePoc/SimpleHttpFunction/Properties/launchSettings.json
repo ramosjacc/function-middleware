@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "SimpleHttpFunction": {
+      "commandName": "Project"
+    }
+  }
+}
